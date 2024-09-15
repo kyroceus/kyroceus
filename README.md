@@ -9,10 +9,10 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am Iron Man
 
-<a href="https://www.twitter.com/viswaah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/viswaah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/viswaah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/viswaah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/kyroceus" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kyroceus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/kyroceus" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kyroceus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
